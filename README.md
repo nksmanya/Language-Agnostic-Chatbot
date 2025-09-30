@@ -1,8 +1,12 @@
 # Language Agnostic Chatbot
-A Smart India Hackathon Project 
-Problem Statement ID : 25104
-Problem Statement Title : Language Agnostic Chatbot
-Description: 
+A Smart India Hackathon Project  
+
+Problem Statement ID : 25104 
+
+Problem Statement Title : Language Agnostic Chatbot 
+
+Description:  
 Campus offices answer hundreds of repetitive queries-fee deadlines, scholarship forms, timetable changes often from students more comfortable in Hindi or other regional languages. Long queues and communication gaps strain both staff and learners.. Description: While answers reside in circulars and PDFs, students prefer conversational guidance. A multilingual chatbot that understands Hindi, English, and an additional local language can deflect routine inquiries, freeing staff for complex tasks. Modern conversational-Al services offer drag-and-drop interfaces. Key requirements include accurate intent recognition, context management across multiple turns, fallback to human contact when necessary, and daily conversation logs for continuous improvement. Embedding the chatbot on the college website and popular messaging platforms maximises reach. Crucially, the solution must respect privacy, ensure response accuracy, and remain maintainable by student volunteers after the hackathon concludes. By focusing on content curation and user-centric design, participants can deliver high impact solution quickly. Expected Solution: Student innovators should develop a multilingual conversational assistant that ingests institutional FAQs, recognises and responds to student queries in at least five regional languages, maintains context across follow-up questions, logs interactions for review, and integrates seamlessly into the college's existing web and messaging channels-achieving equitable, round-the-clock information access in a user friendly manner.
-Our Solution: 
+
+Our Solution:  
 A multilingual campus chatbot that answers student FAQs in regional languages, reduces office workload, and provides 24/7 accessible guidance.
